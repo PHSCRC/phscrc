@@ -51,16 +51,16 @@ people:
       url: #
     - title: link
       url: #
-- name: Coming soon!
-  pic: 3
-  position: Outreach Manager
-  social:
-    - title: github
-      url: #
-    - title: envelope
-      url: #
-    - title: link
-      url: #
+# - name: Coming soon!
+#   pic: 3
+#   position: Outreach Manager
+#   social:
+#     - title: github
+#       url: #
+#     - title: envelope
+#       url: #
+#     - title: link
+#       url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
