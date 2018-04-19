@@ -1,0 +1,15 @@
+---
+title: Traffic Light
+subtitle: IoT Letter Day Display
+layout: default
+modal-id: 5
+date: 2017-01-14
+img: trafficlight.png
+thumbnail: trafficlight-thumbnail.png
+alt: image-alt
+project-date: January 2017
+members: Lachlan McCarty
+link: Lachlan do documentation
+description: At our school, we have letter days which determine whether or not you have a lab day, but it is always difficult to remember what day it is. The letter days are between A and G, which coincidentally is the largest number that can be represented in 3 bits. Lachlan found a toy traffic light which just randomly cycled throught the three colors. He decided to hack it to show the letter day. We installed a raspberry pi inside the traffic light and wrote a script that would scrape powerschool for the letter day daily and display it in binary on the traffic light.
+
+---

@@ -1,0 +1,15 @@
+---
+title: LockLAN
+subtitle: Firefighting Robot
+layout: default
+modal-id: 2
+date: 2018-04-07
+img: workinprogress.png
+thumbnail: workinprogress.png
+alt: image-alt
+project-date: April 2018
+members: Tyler Chen, Aditya Prasad
+link: https://lincolnmroth.gitbooks.io/phs-engineering-resources/robotics/locklan.html
+description: More info to come!
+
+---

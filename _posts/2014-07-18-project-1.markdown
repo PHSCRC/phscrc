@@ -1,0 +1,14 @@
+---
+title: Ogrebot
+subtitle: Firefighting robot
+layout: default
+modal-id: 1
+date: 2018-04-07
+img: ogrebot_large.jpg
+thumbnail: ogrebot.jpg
+alt: image-alt
+project-date: April 2018
+members: Lincoln Roth, Lachlan McCarty, Charlie Luo, Stephane Morel
+link: https://lincolnmroth.gitbooks.io/phs-engineering-resources/robotics/ogrebot.html
+description: Ogrebot/NotHotBot is a firefighting robot for the Trinity Robot Contest. It uses a Raspberry Pi3 and a multitude of sensors from an IMU to HC-SR04 Ultrasnoic rangers to navigate throught the maze. To move it uses standard geared dc motors with high resolution quadrature encdoers attached to the back. To extinguish the candles, we are using a Versa-Valve and co2 bike canisters.
+---

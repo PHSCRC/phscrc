@@ -1,0 +1,80 @@
+url: https://phscrc.com
+baseurl:
+
+# Site settings
+title: PHSCRC
+email: phscrc@gmail.com
+description: "Princeton High School Computer and Robotics Club"
+
+
+# Team names, titles and social links
+people:
+- name: Lincoln Roth
+  pic: 1
+  position: President
+  social:
+    - title: github
+      url: "https://github.com/lincolnmroth"
+    - title: envelope
+      url: "mailto://lincolnmroth@gmail.com"
+    - title: link
+      url: "http://lincolnroth.com"
+
+- name: Lachlan McCarty
+  pic: 2
+  position: President
+  social:
+    - title: github
+      url: #
+    - title: envelope
+      url: #
+    - title: link
+      url: #
+
+- name: Coming soon!
+  pic: 3
+  position: Financial Manager
+  social:
+    - title: github
+      url: #
+    - title: envelope
+      url: #
+    - title: link
+      url: #
+- name: Coming soon!
+  pic: 3
+  position: Technical Manager
+  social:
+    - title: github
+      url: #
+    - title: envelope
+      url: #
+    - title: link
+      url: #
+- name: Coming soon!
+  pic: 3
+  position: Outreach Manager
+  social:
+    - title: github
+      url: #
+    - title: envelope
+      url: #
+    - title: link
+      url: #
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/PHSCRC
+  - title: facebook
+    url: https://www.facebook.com/groups/PHSCRC/
+  - title: github
+    url: http://github.com/PHSCRC
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 151 Moore St.
+  - line: Princeton NJ, 08540
+
+# Build settings
+markdown: kramdown
+permalink: pretty

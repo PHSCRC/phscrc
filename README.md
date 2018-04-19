@@ -1,3 +1,4 @@
-# phscrc.github.io
-Website for Princeton High School Computer & Robotics Club
-Based on the Agency Bootstrap Theme
+PHS Robotics Team
+====================
+
+PHS Robotics Team based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)

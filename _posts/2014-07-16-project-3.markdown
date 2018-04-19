@@ -1,0 +1,15 @@
+---
+title: Wall-E
+subtitle: Firefighting robot
+layout: default
+modal-id: 3
+date: 2018-04-07
+img: workinprogress.png
+thumbnail: workinprogress.png
+alt: image-alt
+project-date: April 2018
+members: Stonny Liu
+link: https://lincolnmroth.gitbooks.io/phs-engineering-resources/robotics/walle.html
+description: More info to come
+
+---

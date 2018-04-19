@@ -1,0 +1,16 @@
+---
+title: hbot/Fabtotum?
+subtitle: Custom RepRap 3D Printer
+layout: default
+modal-id: 4
+date: 2016-04-15
+img: hbot_large.jpg
+thumbnail: hbot.jpg
+alt: image-alt
+project-date: April 2016
+members: Lincoln Roth, Will Christensen
+link: https://lincolnmroth.gitbooks.io/phs-engineering-resources/robotics/hbot.html
+description: Designing and building a 3d printed 3d printer based on the hbot kinematics system. It is using a standard RAMPS 1.4 board for the control, and standard 8mm rods with LM8UUs for the motion system.
+
+
+---

@@ -1,0 +1,15 @@
+---
+title: Hexacopter
+subtitle: Semi-autonomous hexacopter
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: workinprogress.png
+thumbnail: workinprogress.png
+alt: image-alt
+project-date: June 2018
+members: Lincoln Roth
+link: https://lincolnmroth.gitbooks.io/phs-engineering-resources/robotics/hexacopter.html
+description: Coming soon!
+
+---
