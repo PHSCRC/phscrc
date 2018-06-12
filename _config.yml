@@ -8,6 +8,24 @@ description: "Princeton High School Computer and Robotics Club"
 
 
 # Team names, titles and social links
+alumni:
+- name: Gota Nakamura
+  pic: 3
+  occupation: Engineering student at WPI
+  quote: "I think CRC really is a great opportunity for people interested in programming and circuits. That kind of opportunity isn't common in most schools. So I think it's good for students like me!"
+# - name: Lachlan McCarty
+#   pic: 3
+#   occupation: student at Princeton
+#   quote: Howdy
+# - name: Aaron Olkin
+#   pic: 3
+#   occupation: student at Harvard
+#   quote: Howdy
+# - name: Jacob Van Buren
+#   pic: 3
+#   occupation: Software developer at Jane St.
+#   quote: Howdy
+
 people:
 - name: Lincoln Roth
   pic: 1
